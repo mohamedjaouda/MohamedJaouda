@@ -9,7 +9,7 @@ I'm an enthusiastic web developer who's obsessed with creating a pixel-perfect w
 * 🌍  I'm based in 📍 Benghazi, Libya
 * 🖥️  See my portfolio at [Jaouda's Portfolio ⚡](http://jaoudas-portfolio.netlify.app/)
 * ✉️  You can contact me at [mohamedjaouda1111@gmail.com](mailto:mohamedjaouda1111@gmail.com)
-* 🧠  I'm learning I'M CURRENTLY LEARNING Vue.js
+* 🧠  I'm currently learning Vue.js
 * 🤝  I'm open to collaborating on Frontend Jobs
 
 <a href="https://www.twitter.com/mohammed_jaouda" target="_blank" rel="noreferrer"><img
